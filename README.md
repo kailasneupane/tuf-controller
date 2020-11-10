@@ -1,17 +1,18 @@
 # tuf-controller
 A simple GUI made using swing java to change keyboard led color and fan modes in asus TUF series laptop.
-###Features:
+
+### Features:
 1. Can instantly change the color of led keyboard upon dragging the color panel.
 2. Can change backlit keyboard intensity.
 3. Can change FAN modes.
 
-##screenshots:
+## screenshots:
 ![screenshot1](./screenshots/screenshot1.png)
 
 ![screenshot3](./screenshots/screenshot3.png)
 
 
-#Things to do before installing this GUI app
+# Things to do before installing this GUI app
 ## 1. Install faustus module.
 Go to https://github.com/hackbnw/faustus and give this a try. If it doesn't work then try other forks. For my case(FA506II), this fork https://github.com/Hyper-KVM/faustus worked. Thanks to the creater of this project.
 
