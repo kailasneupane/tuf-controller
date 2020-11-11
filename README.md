@@ -42,7 +42,8 @@ If this step is skipped, the GUI app needs to be run in super user.
 This app runs via java-runtime. So java 8 or later must be installed first. Then run the below command:
 ```
 git clone https://github.com/kailasneupane/tuf-controller.git
-sudo sh tuf-controller/installer.sh
+cd tuf-controller/
+sudo sh installer.sh
 ```
 To uninstall:
 ```
